@@ -1,4 +1,4 @@
-let animal = "";
+var animal = "";
 //let
 
 function myAnimal() {
